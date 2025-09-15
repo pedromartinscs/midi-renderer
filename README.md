@@ -1,4 +1,7 @@
 # MIDI Visualizer (MVP)
+> ⚙️ Developed entirely by Pedro Martins Costa de Souza — programmer with experience in .NET, Python, AWS, Docker, and game systems.  
+> 🚀 Currently open to remote opportunities in game development (full-time or freelance).  
+> 📫 Contact: pedro@nancode.com.br | [LinkedIn](https://www.linkedin.com/in/pedromartinscosta/) | [Portfolio](https://github.com/pedromartinscs)
 
 A tiny Python/Tkinter app that loads a MIDI file and renders abstract, colorful visuals in real time.
 
@@ -33,3 +36,7 @@ Click **Load MIDI...**, select a file, then **Play**.
   - Add **USB live input** (via `python-rtmidi`)  
   - Add more styles (bars, particles)  
   - Package as a Windows `.exe` with PyInstaller
+
+---
+
+Built with ❤️ by [Pedro Martins Costa de Souza](https://github.com/pedromartinscs)
